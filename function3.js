@@ -1,0 +1,1 @@
+//Criar um nova função para retornar um valor booleano - verdadeiro ou falso - para verificar e informar se um determinado numero atribuido a uma variavel é primo.
